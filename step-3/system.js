@@ -1,0 +1,1 @@
+document.write('Output from system js file.');
