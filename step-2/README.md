@@ -1,5 +1,6 @@
-# Webpack Step One
-Please run following command.
+# Webpack Step Two ( Multiple 'entry' file )
+
+Please execute following commands.
 ```
 webpack
 ```
